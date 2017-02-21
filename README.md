@@ -1,3 +1,1 @@
 # MyMavenProject
-
-This is a test project!...
